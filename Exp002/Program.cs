@@ -1,9 +1,9 @@
+﻿
+int a = 44;
 
-int a = 2;
+int b = 5;
 
-int b = 3;
-
-int c = 7;
+int c = 78;
 
 if (a > b)
 {
@@ -12,11 +12,11 @@ if (a > b)
         Console.WriteLine(a);
     }
 }
-else if (b > c)
+if (b > c)
 {
     Console.WriteLine(b);
 }
-else (c > a)
+if (c > a)
 {
-    Console.WriteLine(c)
+    Console.WriteLine(c);
 }

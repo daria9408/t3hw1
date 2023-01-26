@@ -1,9 +1,9 @@
-
-int N = 5;
+﻿
+int N = 8;
 
 int index = 1;
 
-while (index =< N)
+while (index <= N)
 {
     if (index % 2 == 0)
     {
